@@ -1,3 +1,4 @@
-.retype/*
-logs/*
-public/*
+.retype/
+.history/
+logs/
+public/
