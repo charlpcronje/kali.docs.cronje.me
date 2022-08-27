@@ -4,6 +4,7 @@ url: http://kali.docs.cronje.me
 branding:
   title: KALI Linux Docs | CRONJje.ME
   label: SERVER
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
